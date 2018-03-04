@@ -9,5 +9,5 @@ LINKS-<br />
 [Training datset (Set I)](https://github.com/Karan6Dharni/Data-Science-Project-1/tree/master/train_set) <br />
 [Test dataset (Set J)](https://github.com/Karan6Dharni/Data-Science-Project-1/tree/master/test_set) <br />
 [Code](https://github.com/Karan6Dharni/Data-Science-Project-1) <br />
-[Compressed file](https://github.com/Karan6Dharni/Data-Science-Project-1/blob/master/DS_Project1.zip) <br />
+[Compressed file](https://github.com/Karan6Dharni/Data-Science-Project-1/blob/master/ProjectStage1.zip) <br />
 [Project Report](https://github.com/Karan6Dharni/Data-Science-Project-1/blob/master/Project%20Report%20Stage%20I%20.pdf)
