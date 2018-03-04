@@ -1,4 +1,4 @@
-# Data-Science-Project-1
+# Data Science Project- 1
 
 Entity Type: Person name extraction.
 
