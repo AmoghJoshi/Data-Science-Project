@@ -1,14 +1,10 @@
 # Data Science Project- 1
-
-
-<html>
-<body>
 <p>
 Entity Type: Person name extraction.
 <br>
 Dataset: Baseball (MLB) commentaries.
 <br>
-Markup Style: <>Person Name</>
+Markup Style: Person Name
 </p>
 <hr>
 <br>
@@ -24,5 +20,3 @@ Markup Style: <>Person Name</>
 <a href=https://github.com/Karan6Dharni/Data-Science-Project-1/blob/master/DS_Project1.zip>Compressed Repository</>
 <br>
 <a href=>Project Report<a/>
-</body>
-</html>
