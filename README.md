@@ -11,3 +11,6 @@ LINKS-<br />
 [Code](https://github.com/Karan6Dharni/Data-Science-Project-1) <br />
 [Compressed file](https://github.com/Karan6Dharni/Data-Science-Project-1/blob/master/ProjectStage1.zip) <br />
 [Project Report](https://github.com/Karan6Dharni/Data-Science-Project-1/blob/master/Project%20Report%20Stage%20I%20.pdf)
+
+<br />
+To run the project, execute the following command:  python Classifier.py
