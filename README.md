@@ -1,4 +1,8 @@
-Entity Type: Person name extraction.
+___
+**STAGE 1**
+*Description:* Person Name Extraction from raw data about Baseball match reviews
+
+Entity Type: Person name.
 
 Dataset: Baseball (MLB) commentaries.
 
