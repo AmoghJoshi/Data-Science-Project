@@ -1,16 +1,15 @@
-___
-***
-#STAGE 1
+*****
+# STAGE 1
 
-*Description:* Person Name Extraction from raw data about Baseball match reviews
+**Description:** Person Name Extraction from raw data about Baseball match reviews
 
-Entity Type: Person name.
+**Entity Type:** Person name.
 
-Dataset: Baseball (MLB) commentaries.
+**Dataset:** Baseball (MLB) commentaries.
 
-Markup Style: <>Person Name</>
+**Markup Style:** <>Person Name</>
 
-LINKS-<br />
+**LINKS-**<br />
 [Complete dataset](https://github.com/Karan6Dharni/Data-Science-Project-1/tree/master/Complete%20Dataset) <br />
 [Training dataset (Set I)](https://github.com/Karan6Dharni/Data-Science-Project-1/tree/master/train_set) <br />
 [Test dataset (Set J)](https://github.com/Karan6Dharni/Data-Science-Project-1/tree/master/test_set) <br />
