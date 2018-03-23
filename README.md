@@ -1,5 +1,7 @@
 ___
-**STAGE 1**
+***
+#STAGE 1
+
 *Description:* Person Name Extraction from raw data about Baseball match reviews
 
 Entity Type: Person name.
