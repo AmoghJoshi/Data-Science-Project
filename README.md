@@ -1,9 +1,17 @@
+# STAGE 2
+
+**Description:** Data extraction from the WOrld Wide Web
+
+**Entity type:** Books
+
+**Data Sources:** [amazon.com](https://www.amazon.com) and [booksamillion.com](http://www.booksamillion.com) <br />
+*****
 *****
 # STAGE 1
 
 **Description:** Person Name Extraction from raw data about Baseball match reviews
 
-**Entity Type:** Person name.
+**Entity Type:** Person name
 
 **Dataset:** Baseball (MLB) commentaries.
 
