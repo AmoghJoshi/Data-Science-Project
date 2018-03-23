@@ -1,0 +1,8 @@
+To extract data of books from amazon, run the following sequence:
+python get_urls_amazon.py
+python separate_authors_categories.py
+python get_details_amazon.py
+
+To extract data of books from booksamillion, run the following sequence:
+python get_urls_millions.py
+python get_details_millions.py

@@ -1,0 +1,19 @@
+There are 2 CSV files, books_amazon_output.csv and books_millions_output.csv. They contain data about books extracted from the websites amazon.com and booksamillion.com. Following are the attributes in each of these files:
+
+Name: Title of the book
+Category: Category of the book (Ex: In these tables, we have extracted data for books limited to categories Space Opera, Dark Fantasy and Psychological Thrillers)
+Author: Author(s) of the book
+Price: Cost of the book
+Series: Series of the book
+Pages: Number of pages in the book
+Publisher: Publication house of the book
+Date: Date on which this book was (or will be) released
+Language: Language in which this book is written
+ISBN-10 and ISBN-13: The 2 ISBNs of a book
+Dimensions: Size of the book
+Weight: Shipping weight of the book 
+
+Some attributes are sparsely populated. For example: Series and Language columns are empty in books_millions_output.csv. Also, Dimensions and Weight are sparsely populated in it as compared to books_amazon_output.csv. We can deal with these columns in the later stage (like dropiing empty columns in entity matching)
+
+Number of tuples in books_amazon_output.csv = 2990
+Number of tuples in books_millions_output.csv = 9420
