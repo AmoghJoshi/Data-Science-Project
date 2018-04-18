@@ -1,3 +1,18 @@
+# STAGE 3
+
+**Description:** Entity Matching
+
+**Entity type:** Books
+
+**Data Sources:** [Amazon](https://www.amazon.com) and [Booksamillion](http://www.booksamillion.com) <br />
+
+**LINKS-**<br />
+[DATA](https://github.com/Karan6Dharni/Data-Science-Project/tree/master/Stage%203/DATA) <br />
+[CODE](https://github.com/Karan6Dharni/Data-Science-Project/tree/master/Stage%203/CODE) <br />
+[Jupyter Notebook](https://github.com/Karan6Dharni/Data-Science-Project/blob/master/Stage%203/CODE/Project%20Stage%203.ipynb) <br />
+
+***
+
 # STAGE 2
 
 **Description:** Web Data extraction
