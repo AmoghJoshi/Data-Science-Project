@@ -4,7 +4,7 @@ They contain data about books extracted from the websites www.amazon.com and www
 
 Following are the attributes in each of these files:
 	Name: Title of the book
-	Category: Category of the book (We have extracted data for books limited to categories Space Opera, Dark Fantasy and Psychological Thrillers)
+	Category: Category of the book (We have extracted books in Space Opera, Dark Fantasy and Psychological Thrillers)
 	Author: Author(s) of the book
 	Price: Cost(in USD) of the book
 	Series: Series of the book
@@ -20,9 +20,9 @@ Some attributes are sparsely populated.
 For example: Dimensions and Weight are sparsely populated in books_millions_output.csv as compared to books_amazon_output.csv.
 
 
-After removing duplicates          -> books_amazon_unique.csv (2903 tuples) and books_millions_unique.csv (9094 tuples)
-After cleaning/pre-processing      -> books_amazon_clean.csv (2903 tuples) and books_millions_clean.csv (9094 tuples)
-After Blocking                     -> C.csv (4491 tuples pairs) and D.csv(debug blocking pairs) (200 tuples)
-After Labeling sampled tuple pairs -> G.csv (500 tuples pairs)
-Training set                       -> I.csv (250 tuples pairs)
-Test set                           -> J.csv (250 tuples pairs)
+After removing duplicates    -> books_amazon_unique.csv (2903 tuples) and books_millions_unique.csv (9094 tuples)
+After cleaning/pre-processing-> books_amazon_clean.csv (2903 tuples) and books_millions_clean.csv (9094 tuples)
+After Blocking               -> C.csv (4491 tuples pairs) and D.csv(debug blocking pairs) (200 tuples)
+After sampling and labeling  -> G.csv (500 tuples pairs)
+Training set                 -> I.csv (250 tuples pairs)
+Test set                     -> J.csv (250 tuples pairs)
