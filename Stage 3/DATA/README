@@ -1,0 +1,28 @@
+Table A = books_amazon_output.csv (2990 tuples) 
+Table B = books_millions_output.csv (9420 tuples)
+They contain data about books extracted from the websites www.amazon.com and www.booksamillion.com. 
+
+Following are the attributes in each of these files:
+	Name: Title of the book
+	Category: Category of the book (We have extracted data for books limited to categories Space Opera, Dark Fantasy and Psychological Thrillers)
+	Author: Author(s) of the book
+	Price: Cost(in USD) of the book
+	Series: Series of the book
+	Pages: Number of pages in the book
+	Publisher: Publication house of the book
+	Date: Date on which this book was (or will be) released
+	Language: Language in which this book is written
+	ISBN-10 and ISBN-13: The 2 ISBNs of a book
+	Dimensions: Size of the book
+	Weight: Shipping weight of the book 
+
+Some attributes are sparsely populated.
+For example: Dimensions and Weight are sparsely populated in books_millions_output.csv as compared to books_amazon_output.csv.
+
+
+After removing duplicates          -> books_amazon_unique.csv (2903 tuples) and books_millions_unique.csv (9094 tuples)
+After cleaning/pre-processing      -> books_amazon_clean.csv (2903 tuples) and books_millions_clean.csv (9094 tuples)
+After Blocking                     -> C.csv (4491 tuples pairs) and D.csv(debug blocking pairs) (200 tuples)
+After Labeling sampled tuple pairs -> G.csv (500 tuples pairs)
+Training set                       -> I.csv (250 tuples pairs)
+Test set                           -> J.csv (250 tuples pairs)
