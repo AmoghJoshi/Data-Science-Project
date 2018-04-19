@@ -9,7 +9,7 @@
 **LINKS-**<br />
 [DATA](https://github.com/Karan6Dharni/Data-Science-Project/tree/master/Stage%203/DATA) <br />
 [CODE](https://github.com/Karan6Dharni/Data-Science-Project/tree/master/Stage%203/CODE) <br />
-[Project report](https://www.google.com) <br />
+[Project report](https://github.com/Karan6Dharni/Data-Science-Project/blob/master/Stage%203/Stage%203%20Report.pdf) <br />
 [Jupyter Notebook](https://github.com/Karan6Dharni/Data-Science-Project/blob/master/Stage%203/CODE/Project%20Stage%203.ipynb) <br />
 
 ***
