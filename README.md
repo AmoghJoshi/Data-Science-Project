@@ -1,3 +1,23 @@
+# STAGE 4
+
+**Description:** Data Merging and Data Analysis
+
+**Entity type:** Books
+
+**Data Sources:** [Amazon](https://www.amazon.com) and [Booksamillion](http://www.booksamillion.com) <br />
+
+**Data Analysis:** OLAP Exploration <br />
+
+**LINKS-**<br />
+[CSV file storing Table E](https://github.com/Karan6Dharni/Data-Science-Project/blob/master/Stage%204/merged_data.csv) <br />
+[Matches between Tables A and B](https://github.com/Karan6Dharni/Data-Science-Project/blob/master/Stage%204/matching_tuples.csv) <br />
+[Python script to merge the tables A and B](https://github.com/Karan6Dharni/Data-Science-Project/blob/master/Stage%204/Merge.py) <br />
+[Python Script for OLAP analysis](https://github.com/Karan6Dharni/Data-Science-Project/blob/master/Stage%204/Olap.py)
+[Project report](https://www.google.com) <br />
+
+
+***
+
 # STAGE 3
 
 **Description:** Entity Matching
