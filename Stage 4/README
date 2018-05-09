@@ -1,0 +1,4 @@
+Table E                                   -> merged_data.csv
+Set of matches between tables A and B     -> matching_tuples.csv
+Python script to merge two tables         -> merge.py
+Python script for OLAP data analysis      -> Olap.py
