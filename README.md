@@ -12,7 +12,7 @@
 [CSV file storing Table E](https://github.com/Karan6Dharni/Data-Science-Project/blob/master/Stage%204/merged_data.csv) <br />
 [Matches between Tables A and B](https://github.com/Karan6Dharni/Data-Science-Project/blob/master/Stage%204/matching_tuples.csv) <br />
 [Python script to merge the tables A and B](https://github.com/Karan6Dharni/Data-Science-Project/blob/master/Stage%204/Merge.py) <br />
-[Python Script for OLAP analysis](https://github.com/Karan6Dharni/Data-Science-Project/blob/master/Stage%204/Olap.py)
+[Python Script for OLAP analysis](https://github.com/Karan6Dharni/Data-Science-Project/blob/master/Stage%204/Olap.py) <br />
 [Project report](https://www.google.com) <br />
 
 
